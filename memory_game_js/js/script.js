@@ -33,15 +33,15 @@ const items = [
 	},
 	{
 		name: 'storest',
-		image: '/pictures/storest.jpg',
+		image: './pictures/storest.jpg',
 	},
 	{
 		name: 'maks',
-		image: '/pictures/maks.jpg',
+		image: './pictures/maks.jpg',
 	},
 	{
 		name: 'rusl',
-		image: '/pictures/rusl.jpg',
+		image: './pictures/rusl.jpg',
 	},
 ]
 
