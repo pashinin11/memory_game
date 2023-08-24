@@ -13,19 +13,19 @@ let secondCard = false
 const items = [
 	{
 		name: 'anton',
-		image: '/pictures/anton.jpg',
+		image: '../memory_game_js/pictures/anton.jpg',
 	},
 	{
 		name: 'artem',
-		image: '/pictures/artem.jpg',
+		image: '../memory_game_js/pictures/artem.jpg',
 	},
 	{
 		name: 'bagr',
-		image: '/pictures/bagr.jpg',
+		image: './pictures/bagr.jpg',
 	},
 	{
 		name: 'gnom',
-		image: '/pictures/gnom.jpg',
+		image: './pictures/gnom.jpg',
 	},
 	{
 		name: 'sparta',
@@ -33,15 +33,15 @@ const items = [
 	},
 	{
 		name: 'storest',
-		image: '/pictures/storest.jpg',
+		image: './pictures/storest.jpg',
 	},
 	{
 		name: 'maks',
-		image: '/pictures/maks.jpg',
+		image: './pictures/maks.jpg',
 	},
 	{
 		name: 'rusl',
-		image: '/pictures/rusl.jpg',
+		image: './pictures/rusl.jpg',
 	},
 ]
 
